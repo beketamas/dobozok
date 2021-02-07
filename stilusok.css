@@ -1,0 +1,44 @@
+p {
+    background-color: cornsilk;
+    text-align: justify;
+    padding-left: 6mm;
+    padding-right: 6mm;
+    margin: 3mm;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+    text-indent: 1.5cm;
+}
+
+#bal {
+width: 70%;
+border-style: dotted;
+border-color: burlywood;
+}
+
+#jobb {
+    border-style: dotted;
+    border-color: burlywood; 
+    width:80%;   
+    margin-left: 4.5cm;
+}
+
+.piros {
+  border: blue;
+border-right: double 3mm darkred;
+}
+
+.kek {
+    padding-bottom: 1cm;
+    border-bottom: blue 2mm dashed;
+    border-left: blueviolet 1mm dashed;
+}
+
+#span2 {
+color: crimson;
+font-variant: small-caps;
+}
+
+#span1 {
+    color: dodgerblue;
+    font-family: Cambria,Georgia,serif;
+}
